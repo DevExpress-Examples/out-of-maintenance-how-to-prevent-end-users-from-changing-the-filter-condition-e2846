@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ASPxPivotGrid_CancelFilterChange/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_CancelFilterChange/Default.aspx.vb))
+* [Default.aspx](./CS/ASPxPivotGrid_CancelFilterChange/Default.aspx) (VB: [Default.aspx](./VB/ASPxPivotGrid_CancelFilterChange/Default.aspx))
 * [Default.aspx.cs](./CS/ASPxPivotGrid_CancelFilterChange/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_CancelFilterChange/Default.aspx.vb))
 <!-- default file list end -->
 # How to prevent end-users from changing the filter condition
